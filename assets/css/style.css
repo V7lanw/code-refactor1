@@ -1,3 +1,4 @@
+/* wildcard character, this apply to all the elements in the webpage */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header part */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/* image part */
 /* image URL is written in HTML file */
 /* .hero {
     height: 800px;
@@ -77,12 +80,14 @@ p {
     margin-left: 25px;
 }
 
+/* section part */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* aside part */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -94,6 +99,7 @@ p {
     background-color: #2589bd;
 }
 
+/* article part */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -196,6 +202,7 @@ p {
     font-size: 36px;
 }
 
+/* footer part */
 .footer {
     padding: 30px;
     clear: both;
