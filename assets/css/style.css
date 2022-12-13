@@ -50,11 +50,19 @@ p {
     font-size: 16px;
 }
 
-.hero {
+/* image URL is written in HTML file */
+/* .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+} */
+
+.background-image {
+    width: 100%;
+    margin-bottom: 25px;
     background-size: cover;
     background-position: center;
 }
