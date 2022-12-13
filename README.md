@@ -34,13 +34,13 @@ semantic elements: `<article>`, `<aside>`, `<details>`, `<figcaption>`, `<figure
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The appearance and functionality are almost the same as before.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![screen shot](READMEassets/01-html-css-git-challenge-demo.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+But I changed the title of this webpage (just for distinguishing from original code, and it is a sign of that GitHub page is updated) and the bottom information about authors. In real refactor project all the things will look the same, unless the need is changing style and texts of webpages, and this project is just an example. Now it looks like:
+
+![]()
 
 ## Credits
 
