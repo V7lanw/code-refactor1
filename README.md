@@ -36,11 +36,19 @@ semantic elements: `<article>`, `<aside>`, `<details>`, `<figcaption>`, `<figure
 
 The appearance and functionality are almost the same as before.
 
-![screen shot](READMEassets/01-html-css-git-challenge-demo.png)
+![screen shot](./READMEassets/01-html-css-git-challenge-demo.png)
 
 But I changed the title of this webpage (just for distinguishing from original code, and it is a sign of that GitHub page is updated) and the bottom information about authors. In real refactor project all the things will look the same, unless the need is changing style and texts of webpages, and this project is just an example. Now it looks like:
 
-![]()
+![screen shot after refactoring](./READMEassets/code-refactor1.png)
+
+To check the HTML file in detail, right click a position and inspect. The alt attribute could be seen if the image is not displayed (change the URL of image so it will be blocked).
+
+![image displayed correctly](./READMEassets/Screenshot%20from%202022-12-13%2018-24-33.png)
+
+double left click the path of image, then replace it with a space or just delete the path, press enter
+
+![image alt string](./READMEassets/Screenshot%20from%202022-12-13%2018-25-11.png)
 
 ## Credits
 
